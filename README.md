@@ -1,3 +1,5 @@
+## An android-based chat application efficiently programmed in Java and Firebase.
+
 INSTRUCTIONS:
 1. Download, install and configure Android Studio.
 2. Make a new project with the name 'BaatCheetFinal' and the package name as 'com.khab.finalCheetBaat'.
